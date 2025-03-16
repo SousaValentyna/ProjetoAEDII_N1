@@ -1,4 +1,3 @@
-23442;matematica;6.0
-23442;matematica;6.0
-23442;matematica;6.0
-23442;matematica;6.0
+233230;matematica;5.0
+123456;ciencia;5.0
+654321;arte;5.0

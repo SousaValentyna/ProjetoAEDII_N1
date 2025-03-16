@@ -1,0 +1,4 @@
+Aluno: valentina
+Nota 1:4.0
+Nota 2: 10.0
+Status da aprovação: Aluno aprovado!

@@ -60,6 +60,7 @@ public class FileReaderUtil {
             while(linha != null) {
                 String[] dadosCursos = linha.split(";");
                 cursos[i] = new Curso(Integer.parseInt(dadosCursos[0]), Integer.parseInt(dadosCursos[1]), Float.parseFloat(dadosCursos[2]),Float.parseFloat(dadosCursos[3]));
+                System.out.println(cursos[i].getMatricula());
                 linha = ler.readLine();
                 i++; 
             }

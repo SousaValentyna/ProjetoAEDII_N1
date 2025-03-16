@@ -43,4 +43,15 @@ public class FileWriterUtil {
             erro.printStackTrace();
         }
     }
+
+    public static void escreverString(String escrita, String caminho) {
+        try {
+            BufferedWriter escrever = new BufferedWriter(new FileWriter(caminho, true));
+            escrever.write(escrita);
+            escrever.newLine();
+            escrever.close();
+        } catch (IOException erro) {
+            erro.printStackTrace();
+        }
+    }
 }

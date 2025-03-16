@@ -1,0 +1,26 @@
+Código da disciplina: 233230
+Nome da disciplina: matematica
+Nota 1: 4.0
+Nota 2: 10.0
+Status de aprovação: Aluno aprovado!Código da disciplina: 123456
+Nome da disciplina: ciencia
+Nota 1: 7.0
+Nota 2: 8.0
+Status de aprovação: Aluno aprovado!Código da disciplina: 654321
+Nome da disciplina: arte
+Nota 1: 6.0
+Nota 2: 9.0
+Status de aprovação: Aluno aprovado!
+Código da disciplina: 233230
+Nome da disciplina: matematica
+Nota 1: 4.0
+Nota 2: 10.0
+Status de aprovação: Aluno aprovado!Código da disciplina: 123456
+Nome da disciplina: ciencia
+Nota 1: 7.0
+Nota 2: 8.0
+Status de aprovação: Aluno aprovado!Código da disciplina: 654321
+Nome da disciplina: arte
+Nota 1: 6.0
+Nota 2: 9.0
+Status de aprovação: Aluno aprovado!

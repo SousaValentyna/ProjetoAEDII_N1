@@ -8,7 +8,7 @@ O workspace contém as seguintes pastas:
 
 - `src`: A pasta principal do código-fonte, contendo os seguintes subdiretórios:
   - `model`: Contém classes de modelo de dados, como `Aluno.java`, `Disciplina.java` e `Curso.java`.
-  - `service`: Contém classes de lógica e processamento, como `ProcessadorDados.java`.
+  - `service`: Contém classes de lógica e processamento.
   - `util`: Contém classes utilitárias, como `FileReaderUtil.java` e `FileWriterUtil.java` para operações com arquivos.
   - `main`: Contém o arquivo `Main.java`, que é o ponto de entrada do programa.
 - `data`: Armazena arquivos de entrada (`Alunos.txt`, `Disciplinas.txt`, `Cursos.txt`) e arquivos de saída gerados pelo programa.
